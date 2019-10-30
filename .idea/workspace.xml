@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="826f0f09-8697-4104-800b-5c1ccc7de791" name="Default Changelist" comment="" />
+    <list default="true" id="826f0f09-8697-4104-800b-5c1ccc7de791" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +13,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preview/theme/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2940">
-              <caret line="196" column="23" selection-start-line="196" selection-start-column="23" selection-end-line="196" selection-end-column="23" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/preview/theme/images/blog1.jpeg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="206" column="109" lean-forward="true" selection-start-line="206" selection-start-column="109" selection-end-line="206" selection-end-column="109" />
+            <state relative-caret-position="15">
+              <caret line="206" column="109" selection-start-line="206" selection-start-column="109" selection-end-line="206" selection-end-column="109" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -32,27 +30,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preview/theme/images/blog3.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preview/theme/images/blog1.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preview/theme/images/blog2.jpeg">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preview/theme/css/icomoon.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22800">
-              <caret line="1520" column="1" selection-start-line="1520" selection-start-column="1" selection-end-line="1520" selection-end-column="1" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -76,6 +55,9 @@
       <find>android</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,18 +67,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="19" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="837" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
+  <component name="ProjectId" id="1StxADtZlefOJQMHgJVu3QZlzGn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +107,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,18 +150,19 @@
       <workItem from="1558161348386" duration="1642000" />
       <workItem from="1558163161423" duration="1626000" />
       <workItem from="1558164988792" duration="1611000" />
-      <workItem from="1558166804353" duration="224000" />
+      <workItem from="1558166804353" duration="753000" />
+      <workItem from="1561650875768" duration="10000" />
+      <workItem from="1566309830041" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8576000" />
+    <option name="totallyTimeSpent" value="9161000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="43" width="1400" height="837" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27181688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,7 +175,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32771084" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -204,9 +187,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/preview/theme/images/about.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/report_to_create_file.txt" />
     <entry file="file://$PROJECT_DIR$/report.txt" />
     <entry file="file://$PROJECT_DIR$/broken_images.txt" />
@@ -254,6 +234,16 @@
     <entry file="file://$PROJECT_DIR$/preview/theme/images/blog3.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/about.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/cover_bg_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/img-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/img-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/img-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/img-4.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/img-5.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/img-6.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/img_bg_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/preview/theme/images/img_bg_1.jpg" />
     <entry file="file://$PROJECT_DIR$/preview/theme/images/blog1.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -262,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="206" column="109" lean-forward="true" selection-start-line="206" selection-start-column="109" selection-end-line="206" selection-end-column="109" />
+        <state relative-caret-position="15">
+          <caret line="206" column="109" selection-start-line="206" selection-start-column="109" selection-end-line="206" selection-end-column="109" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
